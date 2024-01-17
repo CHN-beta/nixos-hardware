@@ -30,10 +30,4 @@ in {
   options.microsoft-surface.kernelVersion = mkOption {
     type = types.enum [ version majorVersion ];
   };
-
-  config = mkIf (cfg.kernelVersion == version || cfg.kernelVersion == majorVersion) {
-    boot = {
-      inherit kernelPackages;
-    };
-  };
 }
