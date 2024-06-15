@@ -32,6 +32,7 @@
       asus-zephyrus-ga503 = import ./asus/zephyrus/ga503;
       asus-zephyrus-gu603h = import ./asus/zephyrus/gu603h;
       beagleboard-pocketbeagle = import ./beagleboard/pocketbeagle;
+      chuwi-minibook-x = import ./chuwi/minibook-x;
       deciso-dec = import ./deciso/dec;
       dell-e7240 = import ./dell/e7240;
       dell-g3-3779 = import ./dell/g3/3779;
@@ -46,6 +47,7 @@
       dell-latitude-7390 = import ./dell/latitude/7390;
       dell-latitude-7430 = import ./dell/latitude/7430;
       dell-latitude-7490 = import ./dell/latitude/7490;
+      dell-latitude-9430 = import ./dell/latitude/9430;
       dell-poweredge-r7515 = import ./dell/poweredge/r7515;
       dell-precision-3541 = import ./dell/precision/3541;
       dell-precision-5530 = import ./dell/precision/5530;
@@ -87,6 +89,7 @@
       friendlyarm-nanopc-t4 = import ./friendlyarm/nanopc-t4;
       friendlyarm-nanopi-r5s = import ./friendlyarm/nanopi-r5s;
       focus-m2-gen1 = import ./focus/m2/gen1;
+      gigabyte-b550 = import ./gigabyte/b550;
       google-pixelbook = import ./google/pixelbook;
       gpd-micropc = import ./gpd/micropc;
       gpd-p2-max = import ./gpd/p2-max;
@@ -103,6 +106,7 @@
       intel-nuc-8i7beh = import ./intel/nuc/8i7beh;
       lenovo-ideapad-15alc6 = import ./lenovo/ideapad/15alc6;
       lenovo-ideapad-15arh05 = import ./lenovo/ideapad/15arh05;
+      lenovo-ideapad-16ach6 = import ./lenovo/ideapad/16ach6;
       lenovo-ideapad-z510 = import ./lenovo/ideapad/z510;
       lenovo-ideapad-slim-5 = import ./lenovo/ideapad/slim-5;
       lenovo-ideapad-s145-15api = import ./lenovo/ideapad/s145-15api;
