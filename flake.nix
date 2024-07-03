@@ -48,6 +48,7 @@
       dell-latitude-7430 = import ./dell/latitude/7430;
       dell-latitude-7490 = import ./dell/latitude/7490;
       dell-latitude-9430 = import ./dell/latitude/9430;
+      dell-optiplex-3050 = import ./dell/optiplex/3050;
       dell-poweredge-r7515 = import ./dell/poweredge/r7515;
       dell-precision-3541 = import ./dell/precision/3541;
       dell-precision-5530 = import ./dell/precision/5530;
@@ -238,6 +239,7 @@
       purism-librem-15v3 = import ./purism/librem/15v3;
       purism-librem-5r4 = import ./purism/librem/5r4;
       raspberry-pi-2 = import ./raspberry-pi/2;
+      raspberry-pi-3 = import ./raspberry-pi/3;
       raspberry-pi-4 = import ./raspberry-pi/4;
       raspberry-pi-5 = import ./raspberry-pi/5;
       kobol-helios4 = import ./kobol/helios4;
