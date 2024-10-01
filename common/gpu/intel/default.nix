@@ -16,18 +16,15 @@
   };
 
   options.hardware.intelgpu.loadInInitrd =
-    lib.mkEnableOption
-      "Load the Intel GPU kernel module at stage 1 boot. (Added to `boot.initrd.kernelModules`)"
+    lib.mkEnableOption "Load the Intel GPU kernel module at stage 1 boot. (Added to `boot.initrd.kernelModules`)"
     // {
       default = true;
     };
 
   config = {
-    boot.initrd.kernelModules = [ config.hardware.intelgpu.driver ];
-
-    environment.variables = {
-      VDPAU_DRIVER = lib.mkIf config.hardware.graphics.enable (lib.mkDefault "va_gl");
-    };
+    boot.initrd.kernelModules = lib.optionals config.hardware.intelgpu.loadInInitrd [
+      config.hardware.intelgpu.driver
+    ];
 
     hardware.graphics.extraPackages = with pkgs; [
       (
