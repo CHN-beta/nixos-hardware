@@ -17,6 +17,7 @@
         apple-macbook-air-3 = import ./apple/macbook-air/3;
         apple-macbook-air-4 = import ./apple/macbook-air/4;
         apple-macbook-air-6 = import ./apple/macbook-air/6;
+        apple-macbook-air-7 = import ./apple/macbook-air/7;
         apple-macbook-pro = import ./apple/macbook-pro;
         apple-macbook-pro-8-1 = import ./apple/macbook-pro/8-1;
         apple-macbook-pro-10-1 = import ./apple/macbook-pro/10-1;
@@ -37,6 +38,7 @@
         asus-rog-strix-g733qs = import ./asus/rog-strix/g733qs;
         asus-rog-strix-x570e = import ./asus/rog-strix/x570e;
         asus-zenbook-ux371 = import ./asus/zenbook/ux371;
+        asus-zenbook-ux535 = import ./asus/zenbook/ux535;
         asus-zephyrus-ga401 = import ./asus/zephyrus/ga401;
         asus-zephyrus-ga402 = import ./asus/zephyrus/ga402;
         asus-zephyrus-ga402x = import ./asus/zephyrus/ga402x;
@@ -55,6 +57,7 @@
         dell-inspiron-5509 = import ./dell/inspiron/5509;
         dell-inspiron-5515 = import ./dell/inspiron/5515;
         dell-inspiron-7405 = import ./dell/inspiron/7405;
+        dell-inspiron-7460 = import ./dell/inspiron/7460;
         dell-latitude-3340 = import ./dell/latitude/3340;
         dell-latitude-3480 = import ./dell/latitude/3480;
         dell-latitude-5520 = import ./dell/latitude/5520;
@@ -66,6 +69,7 @@
         dell-optiplex-3050 = import ./dell/optiplex/3050;
         dell-poweredge-r7515 = import ./dell/poweredge/r7515;
         dell-precision-3541 = import ./dell/precision/3541;
+        dell-precision-5490 = import ./dell/precision/5490;
         dell-precision-5530 = import ./dell/precision/5530;
         dell-precision-5560 = import ./dell/precision/5560;
         dell-precision-7520 = import ./dell/precision/7520;
@@ -241,6 +245,7 @@
         microsoft-surface-pro-3 = import ./microsoft/surface-pro/3;
         microsoft-surface-pro-9 = import ./microsoft/surface-pro/9;
         milkv-pioneer = import ./milkv/pioneer;
+        minisforum-v3 = import ./minisforum/v3;
         morefine-m600 = import ./morefine/m600;
         msi-b350-tomahawk = import ./msi/b350-tomahawk;
         msi-b550-a-pro = import ./msi/b550-a-pro;
@@ -287,6 +292,7 @@
         system76-galp5-1650 = import ./system76/galp5-1650;
         system76-darp6 = import ./system76/darp6;
         toshiba-swanky = import ./toshiba/swanky;
+        tuxedo-aura-15-gen1 = import ./tuxedo/aura/15/gen1;
         tuxedo-infinitybook-v4 = import ./tuxedo/infinitybook/v4;
         tuxedo-infinitybook-pro14-gen7 = import ./tuxedo/infinitybook/pro14/gen7;
         tuxedo-pulse-14-gen3 = import ./tuxedo/pulse/14/gen3;
