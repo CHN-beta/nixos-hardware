@@ -85,6 +85,7 @@ See code for all available configurations.
 | [Apple MacBook Air 7,X](apple/macbook-air/7)                           | `<nixos-hardware/apple/macbook-air/7>`                  |
 | [Apple MacBook Pro 8,1](apple/macbook-pro/8-1)                         | `<nixos-hardware/apple/macbook-pro/8-1>`                |
 | [Apple MacBook Pro 10,1](apple/macbook-pro/10-1)                       | `<nixos-hardware/apple/macbook-pro/10-1>`               |
+| [Apple MacBook Pro 11,1](apple/macbook-pro/11-1)                       | `<nixos-hardware/apple/macbook-pro/11-1>`               |
 | [Apple MacBook Pro 11,5](apple/macbook-pro/11-5)                       | `<nixos-hardware/apple/macbook-pro/11-5>`               |
 | [Apple MacBook Pro 12,1](apple/macbook-pro/12-1)                       | `<nixos-hardware/apple/macbook-pro/12-1>`               |
 | [Apple MacBook Pro 14,1](apple/macbook-pro/14-1)                       | `<nixos-hardware/apple/macbook-pro/14-1>`               |
@@ -207,6 +208,7 @@ See code for all available configurations.
 | [Lenovo Legion 7 16achg6 (Hybrid)](lenovo/legion/16achg6/hybrid)       | `<nixos-hardware/lenovo/legion/16achg6/hybrid>`         |
 | [Lenovo Legion 7 16achg6 (Nvidia)](lenovo/legion/16achg6/nvidia)       | `<nixos-hardware/lenovo/legion/16achg6/nvidia>`         |
 | [Lenovo Legion 7i Pro 16irx8h (Intel)](lenovo/legion/16irx8h)          | `<nixos-hardware/lenovo/legion/16irx8h>`                |
+| [Lenovo Legion 7 Pro 16irx9h (Intel)](lenovo/legion/16irx9h)           | `<nixos-hardware/lenovo/legion/16irx9h>`                |
 | [Lenovo Legion Slim 7 Gen 7 (AMD)](lenovo/legion/16arha7/)             | `<nixos-hardware/lenovo/legion/16arha7>`                |
 | [Lenovo Legion T5 AMR5](lenovo/legion/t526amr5)                        | `<nixos-hardware/lenovo/legion/t526amr5>`               |
 | [Lenovo Legion Y530 15ICH](lenovo/legion/15ich)                        | `<nixos-hardware/lenovo/legion/15ich>`                  |
